@@ -4,7 +4,7 @@ RustでAtCoderやるための最小限のテンプレート
 
 # usage
 ```
-cargo generate --git https://github.com/taiyaki-ichi/Rust-Atcoder-Template.git
+cargo generate --git https://github.com/taiyaki-ichi/Rust-AtCoder-Template.git
 ```
 
 # TODO
