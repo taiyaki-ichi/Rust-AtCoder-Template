@@ -1,4 +1,4 @@
-# Rust-Atcoder-Template
+# Rust-AtCoder-Template
 
 RustでAtCoderやるための最小限のテンプレート
 
